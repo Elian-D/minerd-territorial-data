@@ -1,0 +1,20 @@
+[
+  { "id": "01", "name": "Barahona" },
+  { "id": "02", "name": "San Juan de la Maguana" },
+  { "id": "03", "name": "Azua" },
+  { "id": "04", "name": "San Cristóbal" },
+  { "id": "05", "name": "San Pedro de Macorís" },
+  { "id": "06", "name": "La Vega" },
+  { "id": "07", "name": "San Francisco de Macorís" },
+  { "id": "08", "name": "Santiago" },
+  { "id": "09", "name": "Mao" },
+  { "id": "10", "name": "Santo Domingo II" },
+  { "id": "11", "name": "Puerto Plata" },
+  { "id": "12", "name": "Higüey" },
+  { "id": "13", "name": "Montecristi" },
+  { "id": "14", "name": "Nagua" },
+  { "id": "15", "name": "Santo Domingo III" },
+  { "id": "16", "name": "Cotuí" },
+  { "id": "17", "name": "Monte Plata" },
+  { "id": "18", "name": "Neyba" }
+]
