@@ -1,0 +1,15 @@
+# Crear el archivo .gitignore
+cat <<EOF > .gitignore
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Editores/IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+EOF
